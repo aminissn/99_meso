@@ -1,5 +1,5 @@
 <routes> 
-<vType carFollowModel="Krauss" accel="2.6" decel="4.5" id="passenger" length="5.0" maxSpeed="50.0" sigma="0.0" /> 
+<vType carFollowModel="Krauss" accel="2.6" decel="4.5" id="passenger" length="5.0" maxSpeed="50.0"     sigma="0.0" tau="2" minGap="1.5"/> 
 <flow id="fr0" type="passenger" begin="0" end="900" number="50" from="origin" to="right"/> 
 <flow id="fl0" type="passenger" begin="0" end="900" number="50" from="origin" to="right"/> 
 <flow id="fr900" type="passenger" begin="900" end="1800" number="110" from="origin" to="right"/> 
