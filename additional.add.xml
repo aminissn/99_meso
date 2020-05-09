@@ -1,0 +1,4 @@
+<additional> 
+<edgeData id="ed1" file="output/edgeData.xml" freq="300" begin="0" end="7200" excludeEmpty="FALSE" /> 
+<laneData id="la1" file="output/laneData.xml" freq="300" begin="0" end="7200" excludeEmpty="FALSE" /> 
+</additional>

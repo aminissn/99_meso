@@ -1,0 +1,29 @@
+<routes> 
+<vType carFollowModel="Krauss" accel="2.6" decel="4.5" id="passenger" length="5.0" maxSpeed="50.0" sigma="0.0" /> 
+<flow id="fr0" type="passenger" begin="0" end="900" number="50" from="origin" to="right"/> 
+<flow id="fl0" type="passenger" begin="0" end="900" number="50" from="origin" to="right"/> 
+<flow id="fr900" type="passenger" begin="900" end="1800" number="110" from="origin" to="right"/> 
+<flow id="fl900" type="passenger" begin="900" end="1800" number="110" from="origin" to="right"/> 
+<flow id="fr1800" type="passenger" begin="1800" end="2700" number="170" from="origin" to="right"/> 
+<flow id="fl1800" type="passenger" begin="1800" end="2700" number="170" from="origin" to="right"/> 
+<flow id="fr2700" type="passenger" begin="2700" end="3600" number="230" from="origin" to="right"/> 
+<flow id="fl2700" type="passenger" begin="2700" end="3600" number="230" from="origin" to="right"/> 
+<flow id="fr3600" type="passenger" begin="3600" end="4500" number="290" from="origin" to="right"/> 
+<flow id="fl3600" type="passenger" begin="3600" end="4500" number="290" from="origin" to="right"/> 
+<flow id="fr4500" type="passenger" begin="4500" end="5400" number="350" from="origin" to="right"/> 
+<flow id="fl4500" type="passenger" begin="4500" end="5400" number="350" from="origin" to="right"/> 
+<flow id="fr5400" type="passenger" begin="5400" end="6300" number="410" from="origin" to="right"/> 
+<flow id="fl5400" type="passenger" begin="5400" end="6300" number="410" from="origin" to="right"/> 
+<flow id="fr6300" type="passenger" begin="6300" end="7200" number="470" from="origin" to="right"/> 
+<flow id="fl6300" type="passenger" begin="6300" end="7200" number="470" from="origin" to="right"/> 
+<flow id="fr7200" type="passenger" begin="7200" end="8100" number="530" from="origin" to="right"/> 
+<flow id="fl7200" type="passenger" begin="7200" end="8100" number="530" from="origin" to="right"/> 
+<flow id="fr8100" type="passenger" begin="8100" end="9000" number="590" from="origin" to="right"/> 
+<flow id="fl8100" type="passenger" begin="8100" end="9000" number="590" from="origin" to="right"/> 
+<flow id="fr9000" type="passenger" begin="9000" end="9900" number="650" from="origin" to="right"/> 
+<flow id="fl9000" type="passenger" begin="9000" end="9900" number="650" from="origin" to="right"/> 
+<flow id="fr9900" type="passenger" begin="9900" end="10800" number="710" from="origin" to="right"/> 
+<flow id="fl9900" type="passenger" begin="9900" end="10800" number="710" from="origin" to="right"/> 
+<flow id="fr10800" type="passenger" begin="10800" end="11700" number="770" from="origin" to="right"/> 
+<flow id="fl10800" type="passenger" begin="10800" end="11700" number="770" from="origin" to="right"/> 
+</routes>

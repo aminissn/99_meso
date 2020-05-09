@@ -1,0 +1,9 @@
+<edges> 
+<edge from="0" id="origin" to="1" /> 
+<edge from="1" id="center" to="5" /> 
+<edge from="5" id="tls" to="2" /> 
+<edge from="2" id="left" to="3" /> 
+<edge from="2" id="right" to="4" /> 
+<edge from="4" id="right_u" to="2" /> 
+<edge from="3" id="left_d" to="2" /> 
+</edges>
